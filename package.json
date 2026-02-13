@@ -1,7 +1,7 @@
 {
-  "name": "roblox-script-hub",
+  "name": "hollow-hub",
   "version": "1.0.0",
-  "description": "Professional Roblox Script Hub with Cloud Storage",
+  "description": "Hollow Hub by Vinzee",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -43,7 +43,7 @@
     "api",
     "mongodb"
   ],
-  "author": "Your Name",
+  "author": "Vinzee",
   "license": "MIT",
   "repository": {
     "type": "git",
